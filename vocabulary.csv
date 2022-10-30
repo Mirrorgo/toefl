@@ -106,8 +106,8 @@ motif,n. 主题， 主旨；图案，式样,"motif(motive, 动机)👉主题，�
 march,v. 前进，行进,三月（March）行军
 ,n. 前进，行进；进行曲,
 miniature,n. 微型画；小型的，微小的,"mini+ature(creature,创造)👉微型画"
-meager,adj. 量少质差的,meager meal 粗茶淡饭
-,,meager earngings 微薄的收入
+meager,adj. 量少质差的,"meager meal 粗茶淡饭
+meager earngings 微薄的收入"
 Martian,adj. 火星的,
 neat,adj. 整洁的,(nice 美好的）
 moderate,adj. 适度的，温和的,"moder(measure, 测量)+ate"
@@ -154,6 +154,7 @@ requisition,n. 征用,requis(require)+ition
 savanna,n. 热带大草原,
 scatter,"v. 散播 n. (散落的)堆,摊",
 scarce,adj. 缺乏的,scant 缺乏的
+scant,adj. 缺乏的,都需要scan了肯定是缺乏的
 row,"n. 一行, 激烈争吵 v. 划(桨)",
 sensory,"adj. 感觉的,感官的",
 delineate,v. 描述,de(加强)+line(线条)+ate
@@ -182,6 +183,7 @@ shed,v. 脱落,shit v. 排泄
 chronological,adj. 按年代顺序的,
 concer,v. 同意，同时发生,
 constitution,n. 组成，构成 n. 宪法,
+constituenr,"n. 成分, 要素",
 covert,adj. 暗中的,
 contaminate,v. 弄脏，污染,
 crevasse,n. 大裂缝,
@@ -205,7 +207,6 @@ dwindle,v. 减少，缩小,"d(die,死)+wind（风）+le"
 endotherm,n. 恒温动物,endo(inside)+therm(热)
 endorse,v. 签署；认可，支持,en(in)+dorse
 encyclopedia,n. 百科全书,en(in)+cyclo(cycle圈，全)+pedia(教育，知识)
-eligible,erratic,adj. 不规则的
 erratic,adj. 不规则的,erra(error 差错)+tic👉不规则的
 enzyme,n. 酶,
 epitome,"n. 典型,典范,摘要","(""一批特美"")"
@@ -300,6 +301,7 @@ inferior,"adj. 次等的,劣等的",
 innate,adj. 先天的,in(加强)+nate(native)
 informant,n. 告密者,inform(告知)+ant
 inhale,v. 吸入,
+exhale,v. 呼气,
 impenetrable,adj. 不能穿过的，不能理解的,"im(not)+penetra(penetrate,穿，刺)"
 gripe,n. 抱怨,grape 葡萄=吃不到葡萄就抱怨葡萄酸
 guild,n. 行业，协会,
@@ -386,7 +388,7 @@ overcast,adj. 阴天的,over(覆盖)+cast
 overriding,adj. 最主要的,"over(在之上)+rid(ride, 骑, 控制)+ing"
 overt,adj. 明显的,
 penchant,"n. 倾向, 嗜好",
-perceive,"v. 感知, 察觉, 将...视为",
+perceive,"v. 感知, 察觉, 将...视为",per+ceive(receive)
 peripheral,"adj. 外围的, 边缘的",
 peck,v. 啄,
 patchy,"adj. 零散的, 不均衡的, 不完整的",
@@ -406,7 +408,7 @@ pinpoint,v. 精准定位,
 perplex,v. 使困惑,per+plex(complex)
 pertroleum,n. 石油,
 phenomenal,adj. 非凡的 杰出的,
-plague,"v. 困扰, 折磨 n. 瘟疫",
+plague,"v. 困扰, 折磨 n. 瘟疫",a breakout of plague
 snowdrift,n. 雪堆,
 low-lying,adj. 低洼的,
 lichen,n. 地衣,
@@ -482,6 +484,358 @@ rhinoceros,n. 犀牛,
 resonate,"v. 发出共鸣, 共振",
 reside,"v. 居住, 定居",
 residual,"adj. 剩余的, 残留的","=还在居住的👉剩余的, 残留的"
+carnivore,n. 食肉动物,"carni(flesh)+vore(devour, 吞食)"
+impediment,"n. 妨碍, 阻碍","impedi(impede, 妨碍)+ment"
+dorment,adj. 休眠的,
+immigrant,n. 迁入移民,
+emigrant,n. 外迁移民,
+migrant,n. 移民,
+revenue,"n. 收益, 税收",
+ruffle,"v. 激怒, 烦扰",
+ruminate,"v. 反刍, 沉思",rumin(又磨)+ate
+riot,n. 暴动,
+runoff,"n. 径流, 溢出",
+scour,v. 冲刷,"(""死刮"") = 冲刷"
+scorch,"v. 烤焦, 烧焦","(""死烤之"")"
+sedentary,"adj. 久坐的, 定居的",seden(settle 定居)+tary
+satire,n. 讽刺文学,
+saturation,n. 饱和,
+savvy,adj. 精明的 n. 见识,
+hygienic,adj. 卫生的,"hygien(health, 健康)+ic"
+humiliate,v. 羞辱,hun(ground)+iliate = 使匍匐在地上
+fare,n. 车费 v. 进展,
+seafaring,"adj. 海上劳作的, 海上航行的",a seafaring nation 航海民族
+sanctuary,"n. 圣殿, 避难所, 庇护","sanct(saint, 圣人)+uary"
+scavenge,v. 食府,"sca(scan 扫描, 寻觅)+venge(savage, 野蛮的)"
+seam,n. 矿层,sew 缝合 = 接缝 = 地层接缝👉矿层
+secular,adj. 世俗的,"(""塞口"")=吃饭要塞口=民以食为天👉世俗的"
+sarcastic,adj. 讽刺的,
+shun,"v. 避开, 避免",shy 害羞 = 因为害羞而避开
+singular,adj. 单数的,
+shipyard,"n. 船坞, 造船厂",
+sihouette,n. 轮廓,"(""see 了 what"") = 只看见个轮廓所以来问问"
+sensation,"n. 感觉, 知觉",
+serpentine,"adj. 蜿蜒的, 弯曲的","(""蛇盘"")+tine"
+sinuous,"adj. 蜿蜒的, 弯曲的",sin(罪恶)+uous = 罪恶的人心理都是扭曲的
+sewage,"n. 污水, 污物",
+shear,v. 修剪,
+shame,"n. 可惜, 遗憾",sham(假的东西)+e
+simultaneous,adj. 同时发生的,
+setup,"n. 装置, 装备",
+melt,v. 熔炼,s+melt(熔化)
+slab,n. （石、木等坚硬物质的）厚板,a slab of chocolate 一大块巧克力
+slot,"n. 时段; 狭缝, 狭孔",
+slender,"adj. 细长的, 苗条的",
+skyscraper,n. 摩天大楼,sky+scrape(刮擦)+r = 可以刮擦到天空的
+sludge,n. 烂泥,
+slit,n. 裂缝,"(""撕裂"")"
+sleek,adj. 光滑的,snake的皮肤是光滑的
+sizable,adj. 相当大的,
+smother,"v. 闷死, 使窒息",smoke太大让人窒息
+snatch,"v. 抓, 夺","catch 抓   (""死拿起"")=比较猛的拿👉抓, 夺"
+speghetti,n. 意大利面条,
+spectacle,n. 壮观景象,
+spawm,"v. 产卵; 引发, 导致",
+specimen,"n. 标本, 样品",
+spectator,n. 观众,
+spacious,adj. 宽敞的,
+sparrow,n. 麻雀,sp+arrow = 古人用弓箭来射麻雀
+specify,v. 详细说明,"speci(special, 特定的)+fy"
+soot,n. 烟灰,(shoot 射击) = 开枪射击会产生烟灰
+sodium,n. 钠,苏打 Na2CO3
+spledndid,adj. 壮丽的,
+speculate,v. 推测,
+staple,adj. 主要的,
+squat,v. 蹲下,(square 正方形) = 人蹲下身体变成正方形
+spiral,adj. 螺旋的,"spi(spin, 旋转)+ral"
+stark,adj. 明显的; 荒凉的,荒凉的地方什么都很明显
+squirt,v. 喷射,
+spew,v. 喷出,
+spontaneous,adj. 自发的,spont(sponsor 赞助人)+aneous = 赞助都是自发的
+spoil,"v. 变质; 毁坏, 破坏; 溺爱",
+startle,v. 使震惊,"start(出发)+le = 突然启动, 震惊"
+stationary,adj. 静止的,
+steep,"adj. 陡峭的 v. 浸泡, 沉浸",
+statesmen,n. 政治家,
+stature,n. 身高; 声望,He is small in stature
+stellar,adj. 恒星的,
+stitch,v. 缝合,
+statue,"n. 塑像, 雕像",
+steer,"v. 引导; 控制方向, 驾驶",
+stony,"adj. 石头多的, 冷漠的",
+stir,"v. 搅动, 刺激",
+stint,"v. 节约, 吝啬 n. 少量活动, 少量时间",
+steppe,n. 大草原,"a steppe is not steep, but flat"
+sterile,adj. 贫瘠的; 无菌的,?
+strenuous,"adj. 需要很多力气的, 奋力的",strenuously exercise
+subterranean,adj. 地下的,"sub(下面的)+terran(terrain, 陆地)+ean"
+subsist,"v. 维持生活; 存在, 有效","sub(下面的)+sist(insist, 坚持)"
+subjective,adj. 主观的,
+stratum,"n. 地层, 岩层",
+strait,n. 海峡,
+subsidy,"n. 津贴, 补助金",
+stratify,v. 使分层,
+subduct,"v. 下沉, 下降","sub+duct(拉, 引导)"
+streak,n. 条纹,strip 带子
+substantiate,v. 证实,"substant(substance, 物质)+iate"
+stripe,n. 条纹,
+stylistic,adj. 风格上的,
+subdue,v. 征服,
+stride,n. 步伐,st(street)+ride
+composition,"n. 构成, 作品, 作文",
+temperament,n. 性情,temper(脾气)+a+ment
+swarm,n. 蜂群; 一大群 v. 挤满,"s+warm(温暖的) = 蜂喜欢拥挤再温暖的地方
+a swarm of people 一群人"
+syllabus,n. 课程大纲,
+syllable,n. 音节,
+surmise,"v. 推测, 臆测",
+supervise,"v. 监督, 指导",super(上层)+vis(看)+e = 在上面看👉监督
+thrive,"v. 繁荣, 兴旺",river是thrive的基本条件
+thanseverse,adj. 横向的,transverse section
+treaty,"n. 条约, 协定",
+traumatic,adj. 创伤的,
+trauma,n. 痛苦经历，挫折,
+thoughtful,"adj. 沉思的, 体贴的",
+torrid,adj. 酷热的,"(""太热的"")"
+tragedy,n. 悲剧,comedy(喜剧)
+tornado,n. 龙卷风,
+trample,v. 践踏,
+tramp,"v.拖着沉重的脚步走，踩，踏；长途跋涉
+n. 流浪汉",
+tremble,v. 颤抖,
+tow,"v. 拖, 拽","(""拖, 拽"")"
+tin,n. 锡,
+transient,adj. 短暂的,
+toddler,n. 初学走路的孩子,
+thrust,n. 推动力,rust化就是thrust
+traverse,"v. 横跨, 穿越",
+tranjectory,"n. 轨道, 轨迹",
+treaty,"n. 条约, 规定",
+undertaking,n. 事业; 承诺,
+tutelage,"n. 教导, 指导",
+tribal,adj. 部落的,
+turbulent,"adj. 动荡的, 混乱的",
+uncharted,adj. 未知的; (情形、经历、活动)不为人熟悉的; (地域、水域)未被探索的,
+undermine,"v. 逐渐削弱(信心, 权威等)",undermine his authority 破坏他的威信
+unprecedented,adj. 史无前例的,
+varnish,n. 清漆 v. 涂清漆,
+vacate,"v. 搬出, 腾空",vacate的时间就是vacation(假期)
+unearth,"v. 发掘, 出土",
+tribute,n. 颂词,
+ubiquitous,"adj. 无处不在的, 普通的",
+vine,n. 葡萄藤,
+wary,adj. 警惕的,
+warrant,v. 使有必要,
+virtuosity,n. 技艺精湛,
+violate,v. 违反,
+vestigial,"adj. 退化的, 残留的",
+vibrant,adj. 精力充沛的,
+wag,"v. 摇摆, 摆动",
+ward,"v. 保卫, 抵御 n. 病房",
+vitality,"n. 生命力, 活力",
+venomous,adj. 有毒的,
+voyage,"n. 航行, 航海",
+vogue,n. 时尚,
+wane,v. 月亏(月亮从满月渐渐变残),
+vestigial,adj. 退化的,
+warrant,v. 使有必要 n. 搜查令,
+zenith,"n. 巅峰
+the time when sth is strongest and most successful","z(""Z""是英文字母的最后一个)+eith = 天"
+wreck,n. 残骸,weak 弱的 👉 残骸
+cater,"v. 满足需要, 迎合",
+cassette,n. 盒式录像带,
+yarn,n. 纱,
+vitality,n. 生命力，活力,
+worship,v. 崇拜,"wor(worth, 价值)+ship(状态, 性质) = 认为有价值, 所以崇拜"
+allegiance,n. 忠诚,"al(= ad, to)+leg (= law, 法律)+iance = 遵守法律 👉 忠诚"
+boost,"v. 提高, 促进",
+welfare,n. 福利,
+watershed,"n. 分水岭, 转折点",
+mend,"v. 修理, 修补, 痊愈",
+amend,"v. 修改, 完善",amended version 修订本
+allocate,v. 分配,
+caustic,adj. 腐蚀性的; 刻薄的,
+creed,"n. 信条, 教义",
+concede,v. 让步,con+cede(走) = 双方都走一步 = 让步
+coherent,adj. 有条理的,
+courageous,adj. 勇敢的,
+credence,n. 可信度,
+cordial,adj. 热情友好的；和蔼可亲的,
+counterexample,n. 反例,
+consent,v. 同意,
+commensurate,adj. 相称的,
+controllable,adj. 可控制的,
+compliment,"n. 恭维, 称赞",
+confide,v. 吐露(心声),"confidence 信任, 自信
+向信任的人吐露心声"
+confess,"v. 悔恨, 供认",
+cruelty,n. 残忍,
+commensuate,adj. 相称的,
+compliment,"n. 恭维, 称赞",
+comtempt,n. 蔑视；轻蔑,con(一起)+tempt(弹拨他) = 蔑视
+consequential,adj. 随之而来的; 重要的,consequential loss 间接损失
+conspiracy,"n. 密谋策划, 阴谋",con+spi(spy 刺探)+racy = 一起刺探肯定有阴谋
+deductive,"adj. 演绎的, 推断的",
+dazzle,"v. (强光等) 使眼花, 使目眩",
+depreciate,v. 贬值,de(down)+preci(price)+ate
+discourse,"n. 论文, 演讲",
+disclaim,n. 否认,dis+claim
+detain,v. 耽搁; 拘留,"de(away)+tain(retain, hold)"
+decibel,n. 分贝,"deci(十进制的)+bel(""贝"")"
+dedicate,v. 奉献,dedi(daddy)+cate 父亲总是奉献
+dismay,v. 使沮丧,"dis+may(""霉"")"
+despoil,v. 掠夺,de(加强)+spoil(破坏)
+decency,"n. 正直, 体面",
+decent,adj. 正直的,
+dilute,v. 稀释,
+diligent,adj. 勤奋的,
+cunning,adj. 狡猾的,
+debatable,adj. 有争执的,
+purse,n. 钱包，皮夹子（尤指女用的）,
+disburse,"v. 支付, 支出",dis(away)+burse(purse)
+discourse,n. 论文,
+broccoli,n. 西兰花,
+endemic,"adj. 地方性的, 局限特殊人群的",
+dramatize,v. 改编成戏剧,
+distrust,v. 不信任,
+excursion,n. 远足,
+dissertation,n. 博士论文,
+enquiry,n. 询问,
+exemption,n. 免除,
+dock,n. 码头 v. 扣除,
+dumb,adj. 哑的,
+exclaim,v. 欢呼,
+distasteful,adj. 讨厌的,
+elevate,"v. 举起, 升高",
+dogma,"n. 教义, 信条",
+earnest,"adj. 认真的, 诚恳的",(earn 挣钱) = 要挣钱必须要有认真诚恳的态度
+eternal,adj. 永恒的,"e(ex, out)+tern(term, 期限, 终结)+al = 没有终结的"
+enchant,v. 使入迷,the enchanted audience 入迷的观众
+endemic,"adj. 地方性的, 局限特殊人群的&流行
+regularly found in a particular place or among a particular group of people and difficult to get rid of ",en(in)+dem(people)+ic = 地方性的
+fabricate,v. 制造,fabric(纤维)+ate = 生产纤维
+feverish,adj. 发烧的,
+fender,n. 挡泥板,
+exhilarate,v. 令人兴奋的,
+filth,"n. 污秽, 肮脏",(filter 过滤) = 过滤掉里肮脏的东西
+flea,n. 跳蚤,"(flee, 逃走)"
+fable,n. 寓言,
+exponent,n. 指数的; 典型的,
+eyewitness,n. 目击者,
+foe,n. 仇敌的,"(""否"")"
+feminism,n. 女权主义,
+famine,n. 饥荒,fam(farm 村庄)+in+e(end 终结)
+flare,v. 闪耀,
+fatalism,n. 宿命论,
+exhilarate,v. 使人兴奋,"ex(out)+hilar(Hilary 希拉里)+ate
+Trump 战胜了 Hilary 很兴奋"
+exponent,"n. 指数, 典型; 拥护者",
+exhume,v. 挖掘,"ex(out)+hume(ground, 地面)"
+formost,adj. 最重要的,fore(前面)+most(最)
+fleck,n. 斑点,
+fell,v. 伐木,
+fender,"n. 挡泥板, 防护物",
+gorge,n. 峡谷,
+glitter,v. 闪光,
+hiccup,v. 打嗝,
+haven,n. 避难所,
+foreseeable,adj. 可预见的,
+grill,v. 烧烤,
+hatred,n. 仇恨,"hat(hate, 讨厌)+red = 讨厌到红眼"
+heritage,n. 遗产,
+garner,"v. 收集, 采集","gather 聚集, 集合"
+glamorous,adj. 有魅力的,
+glassware,n. 玻璃制品,
+groan,v. 呻吟,
+gale,n. 大风,
+handkerchief,n. 手帕,
+genesis,"n. 起源, 产生",generate 产生
+grip,n. 抓住,
+grief,n. 悲痛,
+hedge,"n. 篱笆 v. 对冲, 平衡风险",
+illegible,adj. 难辨认的; 模糊的,an illegible signature
+icon,n. 图标,
+impair,"v. 损害, 削弱",
+hype,"n. 大肆渲染, 炒作",
+incline,v. 使倾斜,
+hyper,adj. 亢奋的,
+incessant,adj. 不停的,incessant rain 连绵不绝的阴雨
+howl,v. 嚎叫,
+idiom,"n. 习语, 成语",
+implausible,adj. 不合情理的,
+incur,v. 招致,
+humidify,v. 加湿,
+holy,adj. 神圣的,
+impede,"adj. 妨碍, 阻碍",
+impartial,adj. 公平的,
+impair,"v. 削弱, 损害",
+implausible,adj. 不合情理的,
+contempt,v. 轻视,
+tonal,adj. 音调的,
+jaded,adj. 疲惫的,
+insult,v. 辱骂,in+sult(salt) = 灌盐水 👉 辱骂
+inductive,adj. 归纳的,
+infantry,n. 步兵,"infan(infant, 婴儿)+try = 部队里的婴儿"
+intern,n. 实习生 v.拘禁,
+inductrious,adj. 勤奋的,工业就得勤奋
+institutionalize,v. 使...制度化,
+indigent,adj. 贫穷的,"(""硬地震他"")"
+indigestible,adj. 难消化的,
+insane,adj. 疯狂的,
+sane,"adj. 精神健全的, 明智的",
+indignant,adj. 愤慨的,"in+dign(dignity, 尊严)+ant = 被无视尊严而愤慨"
+inflict,v. 折磨,
+jaded,adj. 疲惫的,
+inductive,adj. 归纳的,
+laundry,n. 洗衣店,
+ledge,n. (自峭壁突出的)岩架,l+edge
+jolly,adj. 快乐的,
+kindle,v. 点燃,
+lengthen,v. 延长,
+judgement,n. 判断,
+lave,"v. 冲刷, 冲洗",live 活的 = 用流水 (活水) 冲洗
+ligeage,"n. 血统, 世系",line+age = 连成线的世系
+legislate,v. 立法,
+jewel,n. 宝石,
+knob,n. 球形,
+ken,"n. 视野, 知识领域",ken 没有视野😂
+legacy,n. 遗产; 遗留问题,leg(left 剩下)
+lame,adj. 跛腿,
+knob,"n. 把手, 门把",
+levy,n. 税款 v. 征收,"le(""来"")+v = 来v我50 👉 征收"
+judicious,"adj. 明智的, 有判断力的",
+linger,"v. 徘徊, 逗留",linger for a while
+macro,"adj. 宏大的, 总体的",
+miracle,"n. 奇迹, 奇事",
+materialism,n. 唯物主义,
+mansion,"n. 大厦, 豪宅",
+marshal,"v. 集结, 整理",
+magnitude,"n. 重要性, 震级",magn(大)+itude
+milestone,n. 里程碑,
+measured,adj. 慎重的,
+lodging,n. 住宿,
+lofty,adj. 崇高的,lofty ideals 崇高的理想
+majestic,"adj. 雄伟的, 壮丽的",
+mine,n. 哑剧,
+merit,"n. 优点, 价值","meri(merry, 美好快乐的)+t"
+manual,adj. 纯手工的,
+mend,v. 修理,"(""慢的"") = 修理耗费时间"
+mingle,v. 混合,
+lobby,"n. 大厅, 休息厅; 游说","(""捞逼""需要去大厅休息)"
+marshal,"v. 集结, 整理 n. (美国等国家的) 警察局长, 消防队长等",
+majestic,"adj. 雄伟的, 壮丽的",
+mingle,v. 混合,
+dread,n. 恐惧 v. 惧怕,
+prompt,v. 促使,
+proficient,"adj. 熟练的, 精通的","pro+fic(make, do, 做)+ient"
+proceeds,n. 收益,
+proceed,"v. 接着做, 继续做某事",He outlined his plans and then proceeded to explain them in more detail
+procure,"v. 采购, 获得",
+proclaim,v. 宣称,
+stark,"adj. 明显的, (对比)鲜明的; 荒凉的",
+,,
+,,
+,,
 ,,
 ,,
 ,,
